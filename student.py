@@ -1,7 +1,7 @@
 import sys
 
 name = sys.argv[1]
-roll_no = sys.argv[2]
+rollno = sys.argv[2]
 
 print("Student Name:", name)
-print("Student Roll no:", roll_no)
+print("Student Roll no:", rollno)
